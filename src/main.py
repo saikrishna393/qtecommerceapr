@@ -14,3 +14,6 @@ def login_with_google
 
 def login_with_github
     pass
+
+def login_with_microsoft
+    pass  

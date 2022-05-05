@@ -4,4 +4,8 @@ def login();
     pass
 
 def logout();
-    pass   
+    pass
+
+def login_with_facebook
+    pass       
+
